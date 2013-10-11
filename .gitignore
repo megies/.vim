@@ -1,1 +1,3 @@
 autoload/pathogen.vim
+spell
+undo
